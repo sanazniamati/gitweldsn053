@@ -15,7 +15,7 @@ const App = () => {
           <Line
             x={10}
             y={7}
-            stroke={"green"}
+            stroke={"black"}
             strokeWidth={strokeWidth}
             points={[300, 0, 600, 0]}
           />
@@ -28,14 +28,14 @@ const App = () => {
           <Group y={50}>
             <Line
               x={10}
-              stroke={"green"}
+              stroke={"black"}
               strokeWidth={3}
               points={[100, 10, 300, 10]}
             />
             <Text x={350} y={2} text={`strokeWidth : 3`} fontSize={20} />
             <Line
               x={10}
-              stroke={"green"}
+              stroke={"black"}
               strokeWidth={1.5}
               points={[100, 40, 300, 40]}
             />
@@ -43,7 +43,7 @@ const App = () => {
 
             <Line
               x={10}
-              stroke={"green"}
+              stroke={"black"}
               strokeWidth={1.2}
               points={[100, 70, 300, 70]}
             />
@@ -51,7 +51,7 @@ const App = () => {
 
             <Line
               x={10}
-              stroke={"green"}
+              stroke={"black"}
               strokeWidth={0.5}
               points={[100, 100, 300, 100]}
             />
@@ -59,7 +59,7 @@ const App = () => {
 
             <Line
               x={10}
-              stroke={"green"}
+              stroke={"black"}
               strokeWidth={0.1}
               points={[100, 130, 300, 130]}
             />
@@ -67,7 +67,7 @@ const App = () => {
 
             <Line
               x={10}
-              stroke={"green"}
+              stroke={"black"}
               strokeWidth={0.01}
               points={[100, 160, 300, 160]}
             />

@@ -9,5 +9,4 @@ It provides declarative and reactive bindings to the [Konva Framework](https://k
 
 ![Demo](./img.png)
 
-**How To hide and show a shape with react-Konva ?**
-**Instructions: Click on the buttons to show and hide the shape.**
+
